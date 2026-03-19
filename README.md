@@ -18,6 +18,13 @@ This project was built as part of the **Tamizhian Skill RISE 4.0 Virtual Interns
 
 Manual inspection of medical images is slow and error-prone. This project demonstrates how machine learning can automate chest X-ray classification to assist medical professionals in detecting pneumonia quickly and accurately.
 
+(RISE 4.0) Project 7: Industry-Oriented Machine Learning System for Image
+Classification
+
+Objective:
+To build a machine learning model that classifies images into predefined
+categories using image features and ML algorithms.
+
 ---
 
 ## 📁 Dataset
